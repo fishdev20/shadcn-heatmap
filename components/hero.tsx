@@ -15,9 +15,10 @@ export function Hero() {
         <h1 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
           Heatmap Calendar Component
         </h1>
-        <p className="max-w-2xl text-muted-foreground md:text-lg">
-          GitHub-style activity heatmap built with shadcn/ui primitives. Includes live demo, source
-          code, and copy-paste instructions.
+        <p className="mt-3 max-w-2xl text-muted-foreground">
+          A reusable <strong>React heatmap calendar</strong> built with <strong>shadcn/ui</strong>{" "}
+          and <strong>Tailwind CSS</strong>. Visualize daily activity, fitness data, business
+          metrics, IoT events, or learning progress with a GitHub-style heatmap.
         </p>
 
         <div className="flex flex-wrap gap-3 pt-2">
