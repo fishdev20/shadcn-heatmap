@@ -26,7 +26,7 @@ export function Hero() {
             <a href="#demo">Try Live Demo</a>
           </Button>
           <Button asChild variant="outline" className="gap-2">
-            <a href="https://github.com/yourname/yourrepo" target="_blank" rel="noreferrer">
+            <a href="https://github.com/fishdev20/shadcn-heatmap" target="_blank" rel="noreferrer">
               <Github className="h-4 w-4" />
               View Source
             </a>
