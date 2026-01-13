@@ -33,7 +33,7 @@ A **GitHub-style heatmap calendar** component built with **React**, **Tailwind C
 ## 📸 Preview
 
 ![React Heatmap Calendar preview](./public/preview.png)
-
+![React Heatmap Calendar preview](./public/preview-light.png)
 Live demo available in the repository / website.
 
 ---
