@@ -318,7 +318,7 @@ export function HeatmapCalendar({
       cellGap,
     })
   ) : !showLegend ? null : (
-    <div className={cn("min-w-[140px]", legendCfg.className)}>
+    <div className={cn("min-w-35", legendCfg.className)}>
       {showText ? (
         <div className="mb-2 text-xs text-muted-foreground">
           {lessText} {showArrow ? <span aria-hidden>→</span> : null} {moreText}

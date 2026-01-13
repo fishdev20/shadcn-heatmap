@@ -33,7 +33,7 @@ export function CodeBlock({
         </Button>
       </div>
 
-      <ScrollArea className="h-[360px]">
+      <ScrollArea className="h-90">
         <pre className="p-4 text-sm leading-relaxed">
           <code>{code}</code>
         </pre>
